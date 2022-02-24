@@ -83,6 +83,13 @@ li.sideNavbar{
     padding: 25px 30px;
 }
 /* RESPONSIVE */
+
+@media only screen and (max-width: 1200px) {
+    .home__content{
+        padding: 225px 0px;
+    }
+}
+
 @media only screen and (max-width: 768px){
  .header{
      justify-content: space-between;

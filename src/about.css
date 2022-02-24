@@ -49,17 +49,20 @@ a.bottom__to__top.active{
         font-size: 16px!important;
     }
     button.about.btn.pointer {
-        width: 155px;
+        width: 165px;
         height: 55px;
-        font-size: 18px;
+        font-size: 16px;
     }
 }
 @media only screen and (max-width: 425px){
 button.about.btn.pointer {
     text-transform: capitalize;
-    width: 155px;
+    width: 140px;
     height: 50px;
-    font-size: 14px;
+    font-size: 12px;
     transition: .4s ease;
+}
+.about__button{
+    padding: 10px 0px;
 }
 }
