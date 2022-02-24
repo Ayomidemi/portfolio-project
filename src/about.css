@@ -1,5 +1,6 @@
 .about{
     background: #191919;
+    overflow: hidden;
 }
 img.about__img{
     border-radius: 10px;
@@ -45,15 +46,20 @@ a.bottom__to__top.active{
 /* RESPONSIVE */
 @media only screen and (max-width: 1024px){
     .p__color{
-        font-size: 15px!important;
+        font-size: 16px!important;
+    }
+    button.about.btn.pointer {
+        width: 155px;
+        height: 55px;
+        font-size: 18px;
     }
 }
 @media only screen and (max-width: 425px){
 button.about.btn.pointer {
     text-transform: capitalize;
-    width: 165px;
+    width: 155px;
     height: 50px;
-    font-size: 13px;
+    font-size: 14px;
     transition: .4s ease;
 }
 }

@@ -8,7 +8,7 @@ function Service() {
       <div className="heading">
         <h1 className="heading">My Services</h1>
         <p className="heading p__color">
-          I work with you, not for you.
+          Lorem ipsum d eius Incidunt!.
         </p>
         
       </div>
@@ -63,7 +63,7 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Website Development</h1>
+                <h1 className="service__text">Web Development</h1>
                 <p className="p service__text p__color">
                 Bring to the table win-win survival strategies to ensure proactive domination.
                 </p>
@@ -180,7 +180,7 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Mobile App Development</h1>
+                <h1 className="service__text">Mobile App </h1>
                 <p className="p service__text p__color">
                 Bring to the table win-win survival strategies to ensure proactive domination.
                 </p>

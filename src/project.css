@@ -1,5 +1,6 @@
 .project{
     background-color: #191919;
+    overflow: hidden;
 }
 img.project__img {
     border-radius: 10px;

@@ -58,8 +58,9 @@ p{
   padding: 30px;
 }
 .container{
-  width: 92%;
+  width: 100%;
   margin: 0px auto;
+  overflow: hidden;
 }
 .pz__10{
   padding: 10px 0px;
